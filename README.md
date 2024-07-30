@@ -1,18 +1,9 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+## App Preview
 
-# Magic 8 Ball
+Have you wonder about your own question 🙄 ? don't know what shoul you do ? should you do it ? or not ? or maybe later ?
 
-## Our Goal
-
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
-
-## What you will create
-
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+this app are perfect for you, when you have question and don't know what to do, use this ap instead.
+this app will tell you should you do it, or not, or ask again, or even it also does'nt know 😮.
 
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+<img width="359" alt="Screenshot 2024-07-30 at 15 26 39" src="https://github.com/user-attachments/assets/77455a69-96a9-46a8-bf45-e42df9f9a660">
